@@ -14,4 +14,3 @@ const seanMarsden = {
  challenge: "Completing Bloomtech Coding Bootcamp"
 }
 
-<script/>

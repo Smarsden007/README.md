@@ -5,12 +5,13 @@
 
 
 
-<script>
+```javascript
 
 const seanMarsden = {
   pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS, Python, ],
   tools: [React, Redux, Node, Styled-Components ],
- challenge: "Completing Bloomtech Coding Bootcamp"
+  challenge: "Completing Bloomtech Coding Bootcamp"
 }
 
+```
